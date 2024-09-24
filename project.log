@@ -1,0 +1,632 @@
+2024-09-15 21:07:17,209 - INFO - Starting data processing script.
+2024-09-15 21:07:17,229 - INFO - Data successfully read from the file.
+2024-09-15 21:07:17,229 - INFO - Data successfully loaded from CSV file.
+2024-09-15 21:07:17,243 - INFO - Data has been processed successfully.
+2024-09-15 21:07:17,243 - INFO - Data processing completed.
+2024-09-15 21:07:17,314 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:07:17,314 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:07:33,300 - INFO - Data successfully read from the file.
+2024-09-15 21:07:33,309 - INFO - Data has been processed successfully.
+2024-09-15 21:07:33,324 - INFO - Data successfully read from the file.
+2024-09-15 21:07:33,330 - INFO - Data has been processed successfully.
+2024-09-15 21:07:33,393 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:07:40,455 - INFO - Data successfully read from the file.
+2024-09-15 21:07:40,460 - INFO - Data has been processed successfully.
+2024-09-15 21:07:40,520 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:10:05,004 - INFO - Data successfully read from the file.
+2024-09-15 21:10:05,014 - INFO - Data has been processed successfully.
+2024-09-15 21:10:05,065 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:10:15,554 - INFO - Data successfully read from the file.
+2024-09-15 21:10:15,564 - INFO - Data has been processed successfully.
+2024-09-15 21:10:15,620 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:10:25,160 - INFO - Data successfully read from the file.
+2024-09-15 21:10:25,169 - INFO - Data has been processed successfully.
+2024-09-15 21:10:25,217 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:13:10,630 - INFO - Data successfully read from the file.
+2024-09-15 21:13:10,641 - INFO - Data has been processed successfully.
+2024-09-15 21:13:10,692 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:18:38,379 - INFO - Data successfully read from the file.
+2024-09-15 21:18:38,394 - INFO - Data has been processed successfully.
+2024-09-15 21:18:38,439 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:18:45,899 - INFO - Data successfully read from the file.
+2024-09-15 21:18:45,912 - INFO - Data has been processed successfully.
+2024-09-15 21:18:45,964 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:19:10,290 - INFO - Data successfully read from the file.
+2024-09-15 21:19:10,305 - INFO - Data has been processed successfully.
+2024-09-15 21:19:10,354 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:19:54,192 - INFO - Data successfully read from the file.
+2024-09-15 21:19:54,206 - INFO - Data has been processed successfully.
+2024-09-15 21:19:54,254 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:21:07,733 - INFO - Data successfully read from the file.
+2024-09-15 21:21:07,743 - INFO - Data has been processed successfully.
+2024-09-15 21:21:07,793 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:22:06,115 - INFO - Data successfully read from the file.
+2024-09-15 21:22:06,125 - INFO - Data has been processed successfully.
+2024-09-15 21:22:06,176 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:23:09,186 - INFO - Data successfully read from the file.
+2024-09-15 21:23:09,196 - INFO - Data has been processed successfully.
+2024-09-15 21:23:09,254 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:23:23,376 - INFO - Data successfully read from the file.
+2024-09-15 21:23:23,388 - INFO - Data has been processed successfully.
+2024-09-15 21:23:23,438 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:24:34,201 - INFO - Data successfully read from the file.
+2024-09-15 21:24:34,212 - INFO - Data has been processed successfully.
+2024-09-15 21:24:34,265 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:39:01,926 - INFO - Data successfully read from the file.
+2024-09-15 21:39:01,936 - INFO - Data has been processed successfully.
+2024-09-15 21:39:01,984 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:40:31,484 - INFO - Data successfully read from the file.
+2024-09-15 21:40:31,492 - INFO - Data has been processed successfully.
+2024-09-15 21:40:31,548 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:41:28,212 - INFO - Data successfully read from the file.
+2024-09-15 21:41:28,227 - INFO - Data has been processed successfully.
+2024-09-15 21:41:28,284 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:42:43,066 - INFO - Data successfully read from the file.
+2024-09-15 21:42:43,082 - INFO - Data has been processed successfully.
+2024-09-15 21:42:43,133 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:43:22,155 - INFO - Data successfully read from the file.
+2024-09-15 21:43:22,167 - INFO - Data has been processed successfully.
+2024-09-15 21:43:22,215 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:44:31,261 - INFO - Data successfully read from the file.
+2024-09-15 21:44:31,270 - INFO - Data has been processed successfully.
+2024-09-15 21:44:31,320 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:44:58,152 - INFO - Starting data processing script.
+2024-09-15 21:44:58,156 - INFO - Data successfully read from the file.
+2024-09-15 21:44:58,156 - INFO - Data successfully loaded from CSV file.
+2024-09-15 21:44:58,167 - INFO - Data has been processed successfully.
+2024-09-15 21:44:58,167 - INFO - Data processing completed.
+2024-09-15 21:44:58,257 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:44:58,257 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:45:35,161 - INFO - Starting data processing script.
+2024-09-15 21:45:35,174 - INFO - Data successfully read from the file.
+2024-09-15 21:45:35,174 - INFO - Data successfully loaded from CSV file.
+2024-09-15 21:45:35,185 - INFO - Data has been processed successfully.
+2024-09-15 21:45:35,185 - INFO - Data processing completed.
+2024-09-15 21:45:35,273 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:45:35,273 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:48:08,779 - INFO - Starting data processing script.
+2024-09-15 21:48:08,789 - INFO - Data successfully read from the file.
+2024-09-15 21:48:08,789 - INFO - Data successfully loaded from CSV file.
+2024-09-15 21:48:08,791 - INFO - Data has been processed successfully.
+2024-09-15 21:48:08,791 - INFO - Data processing completed.
+2024-09-15 21:48:08,835 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:48:08,835 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:48:19,560 - INFO - Starting data processing script.
+2024-09-15 21:48:19,574 - INFO - Data successfully read from the file.
+2024-09-15 21:48:19,574 - INFO - Data successfully loaded from CSV file.
+2024-09-15 21:48:19,579 - INFO - Data has been processed successfully.
+2024-09-15 21:48:19,579 - INFO - Data processing completed.
+2024-09-15 21:48:19,613 - INFO - Data successfully updated in the SQL table.
+2024-09-15 21:48:19,613 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:04:49,668 - INFO - Starting data processing script.
+2024-09-15 22:04:49,681 - INFO - Data successfully read from the file.
+2024-09-15 22:04:49,681 - INFO - Data successfully loaded from CSV file.
+2024-09-15 22:04:49,691 - INFO - Data has been processed successfully.
+2024-09-15 22:04:49,691 - INFO - Data processing completed.
+2024-09-15 22:04:49,780 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:04:49,780 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:05:03,346 - INFO - Data successfully read from the file.
+2024-09-15 22:05:03,353 - INFO - Data has been processed successfully.
+2024-09-15 22:05:03,361 - INFO - Data successfully read from the file.
+2024-09-15 22:05:03,371 - INFO - Data has been processed successfully.
+2024-09-15 22:05:03,430 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:05:10,331 - INFO - Data successfully read from the file.
+2024-09-15 22:05:10,343 - INFO - Data has been processed successfully.
+2024-09-15 22:05:10,391 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:05:19,814 - INFO - Data successfully read from the file.
+2024-09-15 22:05:19,831 - INFO - Data has been processed successfully.
+2024-09-15 22:05:19,881 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:07:41,253 - INFO - Data successfully read from the file.
+2024-09-15 22:07:41,262 - INFO - Data has been processed successfully.
+2024-09-15 22:07:41,315 - INFO - Data successfully updated in the SQL table.
+2024-09-15 22:07:53,833 - INFO - Data successfully read from the file.
+2024-09-15 22:07:53,843 - INFO - Data has been processed successfully.
+2024-09-15 22:07:53,896 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:07:01,331 - INFO - Data successfully read from the file.
+2024-09-16 00:07:01,351 - INFO - Data has been processed successfully.
+2024-09-16 00:07:01,471 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:11:44,098 - INFO - Data successfully read from the file.
+2024-09-16 00:11:44,121 - INFO - Data has been processed successfully.
+2024-09-16 00:11:44,228 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:12:13,387 - INFO - Data successfully read from the file.
+2024-09-16 00:12:13,403 - INFO - Data has been processed successfully.
+2024-09-16 00:12:13,524 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:12:32,762 - INFO - Data successfully read from the file.
+2024-09-16 00:12:32,783 - INFO - Data has been processed successfully.
+2024-09-16 00:12:32,892 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:19:02,863 - INFO - Data successfully read from the file.
+2024-09-16 00:19:02,887 - INFO - Data has been processed successfully.
+2024-09-16 00:19:03,000 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:19:35,203 - INFO - Data successfully read from the file.
+2024-09-16 00:19:35,231 - INFO - Data has been processed successfully.
+2024-09-16 00:19:35,332 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:19:50,192 - INFO - Data successfully read from the file.
+2024-09-16 00:19:50,218 - INFO - Data has been processed successfully.
+2024-09-16 00:19:50,348 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:21:16,158 - INFO - Data successfully read from the file.
+2024-09-16 00:21:16,192 - INFO - Data has been processed successfully.
+2024-09-16 00:21:16,314 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:25:51,525 - INFO - Data successfully read from the file.
+2024-09-16 00:25:51,552 - INFO - Data has been processed successfully.
+2024-09-16 00:25:51,659 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:29:38,515 - INFO - Data successfully read from the file.
+2024-09-16 00:29:38,552 - INFO - Data has been processed successfully.
+2024-09-16 00:29:38,696 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:29:56,305 - INFO - Data successfully read from the file.
+2024-09-16 00:29:56,337 - INFO - Data has been processed successfully.
+2024-09-16 00:29:56,441 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:31:56,425 - INFO - Data successfully read from the file.
+2024-09-16 00:31:56,452 - INFO - Data has been processed successfully.
+2024-09-16 00:31:56,562 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:32:10,757 - INFO - Data successfully read from the file.
+2024-09-16 00:32:10,782 - INFO - Data has been processed successfully.
+2024-09-16 00:32:10,891 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:32:45,282 - INFO - Data successfully read from the file.
+2024-09-16 00:32:45,305 - INFO - Data has been processed successfully.
+2024-09-16 00:32:45,426 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:34:19,892 - INFO - Data successfully read from the file.
+2024-09-16 00:34:19,914 - INFO - Data has been processed successfully.
+2024-09-16 00:34:20,040 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:34:38,019 - INFO - Data successfully read from the file.
+2024-09-16 00:34:38,042 - INFO - Data has been processed successfully.
+2024-09-16 00:34:38,151 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:34:57,835 - INFO - Data successfully read from the file.
+2024-09-16 00:34:57,862 - INFO - Data has been processed successfully.
+2024-09-16 00:34:57,979 - INFO - Data successfully updated in the SQL table.
+2024-09-16 00:35:15,097 - INFO - Data successfully read from the file.
+2024-09-16 00:35:15,122 - INFO - Data has been processed successfully.
+2024-09-16 00:35:15,237 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:42:09,549 - INFO - Starting data processing script.
+2024-09-16 14:42:09,571 - INFO - Data successfully read from the file.
+2024-09-16 14:42:09,571 - INFO - Data successfully loaded from CSV file.
+2024-09-16 14:42:09,581 - INFO - Data has been processed successfully.
+2024-09-16 14:42:09,581 - INFO - Data processing completed.
+2024-09-16 14:42:09,685 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:42:09,685 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:50:04,173 - INFO - Starting data processing script.
+2024-09-16 14:50:04,198 - INFO - Data successfully read from the file.
+2024-09-16 14:50:04,198 - INFO - Data successfully loaded from CSV file.
+2024-09-16 14:50:04,204 - INFO - Data has been processed successfully.
+2024-09-16 14:50:04,204 - INFO - Data processing completed.
+2024-09-16 14:50:04,298 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:50:04,298 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:50:18,610 - INFO - Data successfully read from the file.
+2024-09-16 14:50:18,621 - INFO - Data has been processed successfully.
+2024-09-16 14:50:18,673 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:55:23,176 - INFO - Starting data processing script.
+2024-09-16 14:55:23,188 - INFO - Data successfully read from the file.
+2024-09-16 14:55:23,188 - INFO - Data successfully loaded from CSV file.
+2024-09-16 14:55:23,195 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 14:55:23,195 - INFO - Data has been processed successfully.
+2024-09-16 14:55:23,195 - INFO - Data processing completed.
+2024-09-16 14:55:23,363 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:55:23,363 - INFO - Data successfully updated in the SQL table.
+2024-09-16 14:55:30,829 - INFO - Data successfully read from the file.
+2024-09-16 14:55:30,845 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 14:55:30,845 - INFO - Data has been processed successfully.
+2024-09-16 14:55:30,972 - INFO - Data successfully updated in the SQL table.
+2024-09-16 16:36:17,702 - INFO - Starting data processing script.
+2024-09-16 16:36:17,713 - INFO - Data successfully read from the file.
+2024-09-16 16:36:17,713 - INFO - Data successfully loaded from CSV file.
+2024-09-16 16:36:17,719 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 16:36:17,719 - INFO - Data has been processed successfully.
+2024-09-16 16:36:17,719 - INFO - Data processing completed.
+2024-09-16 16:36:17,890 - INFO - Data successfully updated in the SQL table.
+2024-09-16 16:36:17,890 - INFO - Data successfully updated in the SQL table.
+2024-09-16 16:37:27,825 - INFO - Data successfully read from the file.
+2024-09-16 16:37:27,837 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 16:37:27,837 - INFO - Data has been processed successfully.
+2024-09-16 16:37:27,960 - INFO - Data successfully updated in the SQL table.
+2024-09-16 16:38:23,548 - INFO - Data successfully read from the file.
+2024-09-16 16:38:23,564 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 16:38:23,564 - INFO - Data has been processed successfully.
+2024-09-16 16:38:23,581 - INFO - Data successfully read from the file.
+2024-09-16 16:38:23,586 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 16:38:23,587 - INFO - Data has been processed successfully.
+2024-09-16 16:38:23,706 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:34:31,032 - INFO - Starting data processing script.
+2024-09-16 20:34:31,067 - INFO - Data successfully read from the file.
+2024-09-16 20:34:31,067 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:34:31,091 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:34:31,091 - INFO - Data has been processed successfully.
+2024-09-16 20:34:31,091 - INFO - Data processing completed.
+2024-09-16 20:34:31,459 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:34:31,459 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:49:15,457 - INFO - Starting data processing script.
+2024-09-16 20:49:15,546 - INFO - Data successfully read from the file.
+2024-09-16 20:49:15,546 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:49:15,595 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:49:15,595 - INFO - Data has been processed successfully.
+2024-09-16 20:49:15,595 - INFO - Data processing completed.
+2024-09-16 20:49:16,133 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:49:16,133 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:40,677 - INFO - Starting data processing script.
+2024-09-16 20:52:40,702 - INFO - Data successfully read from the file.
+2024-09-16 20:52:40,702 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:52:40,710 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:52:40,710 - INFO - Data has been processed successfully.
+2024-09-16 20:52:40,710 - INFO - Data processing completed.
+2024-09-16 20:52:40,935 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:40,935 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:41,063 - INFO - Starting data processing script.
+2024-09-16 20:52:41,089 - INFO - Data successfully read from the file.
+2024-09-16 20:52:41,089 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:52:41,105 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:52:41,105 - INFO - Data has been processed successfully.
+2024-09-16 20:52:41,105 - INFO - Data processing completed.
+2024-09-16 20:52:41,359 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:41,359 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:41,440 - INFO - Starting data processing script.
+2024-09-16 20:52:41,473 - INFO - Data successfully read from the file.
+2024-09-16 20:52:41,474 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:52:41,489 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:52:41,489 - INFO - Data has been processed successfully.
+2024-09-16 20:52:41,489 - INFO - Data processing completed.
+2024-09-16 20:52:41,772 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:41,772 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:42,016 - INFO - Starting data processing script.
+2024-09-16 20:52:42,041 - INFO - Data successfully read from the file.
+2024-09-16 20:52:42,041 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:52:42,057 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:52:42,057 - INFO - Data has been processed successfully.
+2024-09-16 20:52:42,057 - INFO - Data processing completed.
+2024-09-16 20:52:42,270 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:42,270 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:47,524 - INFO - Starting data processing script.
+2024-09-16 20:52:47,540 - INFO - Data successfully read from the file.
+2024-09-16 20:52:47,540 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:52:47,549 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:52:47,549 - INFO - Data has been processed successfully.
+2024-09-16 20:52:47,549 - INFO - Data processing completed.
+2024-09-16 20:52:47,752 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:52:47,755 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:55:33,823 - INFO - Starting data processing script.
+2024-09-16 20:55:33,849 - INFO - Data successfully read from the file.
+2024-09-16 20:55:33,849 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:55:33,864 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:55:33,864 - INFO - Data has been processed successfully.
+2024-09-16 20:55:33,864 - INFO - Data processing completed.
+2024-09-16 20:55:34,058 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:55:34,058 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:57:02,726 - INFO - Starting data processing script.
+2024-09-16 20:57:02,742 - INFO - Data successfully read from the file.
+2024-09-16 20:57:02,742 - INFO - Data successfully loaded from CSV file.
+2024-09-16 20:57:02,759 - WARNING - Rows with missing values dropped: 5157
+2024-09-16 20:57:02,759 - INFO - Data has been processed successfully.
+2024-09-16 20:57:02,759 - INFO - Data processing completed.
+2024-09-16 20:57:02,951 - INFO - Data successfully updated in the SQL table.
+2024-09-16 20:57:02,951 - INFO - Data successfully updated in the SQL table.
+2024-09-17 20:12:21,657 - INFO - Starting data processing script.
+2024-09-17 20:12:21,704 - INFO - Data successfully read from the file.
+2024-09-17 20:12:21,719 - INFO - Data successfully loaded from CSV file.
+2024-09-17 20:12:21,775 - WARNING - Rows with missing values dropped: 5157
+2024-09-17 20:12:21,775 - INFO - Data has been processed successfully.
+2024-09-17 20:12:21,775 - INFO - Data processing completed.
+2024-09-17 20:12:22,204 - INFO - Data successfully updated in the SQL table.
+2024-09-17 20:12:22,204 - INFO - Data successfully updated in the SQL table.
+2024-09-17 20:12:47,902 - INFO - Data successfully read from the file.
+2024-09-17 20:12:47,934 - WARNING - Rows with missing values dropped: 5157
+2024-09-17 20:12:47,934 - INFO - Data has been processed successfully.
+2024-09-17 20:12:47,949 - INFO - Data successfully read from the file.
+2024-09-17 20:12:47,966 - WARNING - Rows with missing values dropped: 5157
+2024-09-17 20:12:47,966 - INFO - Data has been processed successfully.
+2024-09-17 20:12:48,308 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:36:13,184 - INFO - Starting data processing script.
+2024-09-17 21:36:13,210 - INFO - Data successfully read from the file.
+2024-09-17 21:36:13,210 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:36:13,241 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:36:13,241 - INFO - Data has been processed successfully.
+2024-09-17 21:36:13,241 - INFO - Data processing completed.
+2024-09-17 21:36:13,660 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:36:13,660 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:36:26,866 - INFO - Starting data processing script.
+2024-09-17 21:36:26,890 - INFO - Data successfully read from the file.
+2024-09-17 21:36:26,890 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:36:26,918 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:36:26,918 - INFO - Data has been processed successfully.
+2024-09-17 21:36:26,918 - INFO - Data processing completed.
+2024-09-17 21:36:27,239 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:36:27,239 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:36:38,620 - INFO - Data successfully read from the file.
+2024-09-17 21:36:38,659 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:36:38,659 - INFO - Data has been processed successfully.
+2024-09-17 21:36:38,683 - INFO - Data successfully read from the file.
+2024-09-17 21:36:38,691 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:36:38,691 - INFO - Data has been processed successfully.
+2024-09-17 21:36:38,995 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:38:12,169 - INFO - Starting data processing script.
+2024-09-17 21:38:12,185 - INFO - Data successfully read from the file.
+2024-09-17 21:38:12,185 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:38:12,218 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:38:12,218 - INFO - Data has been processed successfully.
+2024-09-17 21:38:12,218 - INFO - Data processing completed.
+2024-09-17 21:38:12,585 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:38:12,585 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:38:22,369 - INFO - Data successfully read from the file.
+2024-09-17 21:38:22,414 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:38:22,414 - INFO - Data has been processed successfully.
+2024-09-17 21:38:22,433 - INFO - Data successfully read from the file.
+2024-09-17 21:38:22,449 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:38:22,449 - INFO - Data has been processed successfully.
+2024-09-17 21:38:22,732 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:38:34,938 - INFO - Data successfully read from the file.
+2024-09-17 21:38:34,962 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:38:34,962 - INFO - Data has been processed successfully.
+2024-09-17 21:38:35,262 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:40:44,443 - INFO - Data successfully read from the file.
+2024-09-17 21:40:44,467 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:40:44,467 - INFO - Data has been processed successfully.
+2024-09-17 21:40:44,483 - INFO - Data successfully read from the file.
+2024-09-17 21:40:44,493 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:40:44,500 - INFO - Data has been processed successfully.
+2024-09-17 21:40:44,764 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:40:55,862 - INFO - Starting data processing script.
+2024-09-17 21:40:55,886 - INFO - Data successfully read from the file.
+2024-09-17 21:40:55,886 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:40:55,912 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:40:55,912 - INFO - Data has been processed successfully.
+2024-09-17 21:40:55,912 - INFO - Data processing completed.
+2024-09-17 21:40:56,276 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:40:56,276 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:41:06,325 - INFO - Data successfully read from the file.
+2024-09-17 21:41:06,357 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:41:06,357 - INFO - Data has been processed successfully.
+2024-09-17 21:41:06,615 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:57:28,912 - INFO - Starting data processing script.
+2024-09-17 21:57:28,936 - INFO - Data successfully read from the file.
+2024-09-17 21:57:28,936 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:57:28,944 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:57:28,944 - INFO - Data has been processed successfully.
+2024-09-17 21:57:28,944 - INFO - Data processing completed.
+2024-09-17 21:57:29,128 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:57:29,130 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:57:32,670 - INFO - Starting data processing script.
+2024-09-17 21:57:32,684 - INFO - Data successfully read from the file.
+2024-09-17 21:57:32,684 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:57:32,699 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:57:32,699 - INFO - Data has been processed successfully.
+2024-09-17 21:57:32,699 - INFO - Data processing completed.
+2024-09-17 21:57:32,920 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:57:32,920 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:58:57,564 - INFO - Starting data processing script.
+2024-09-17 21:58:57,604 - INFO - Data successfully read from the file.
+2024-09-17 21:58:57,604 - INFO - Data successfully loaded from CSV file.
+2024-09-17 21:58:57,620 - WARNING - Rows with missing values dropped: 2636
+2024-09-17 21:58:57,620 - INFO - Data has been processed successfully.
+2024-09-17 21:58:57,620 - INFO - Data processing completed.
+2024-09-17 21:58:57,881 - INFO - Data successfully updated in the SQL table.
+2024-09-17 21:58:57,881 - INFO - Data successfully updated in the SQL table.
+2024-09-18 00:10:54,494 - INFO - Starting data processing script.
+2024-09-18 00:10:54,530 - INFO - Data successfully read from the file.
+2024-09-18 00:10:54,530 - INFO - Data successfully loaded from CSV file.
+2024-09-18 00:10:54,550 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 00:10:54,551 - INFO - Data has been processed successfully.
+2024-09-18 00:10:54,551 - INFO - Data processing completed.
+2024-09-18 00:10:54,763 - INFO - Data successfully updated in the SQL table.
+2024-09-18 00:10:54,763 - INFO - Data successfully updated in the SQL table.
+2024-09-18 00:11:51,591 - INFO - Data successfully read from the file.
+2024-09-18 00:11:51,614 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 00:11:51,614 - INFO - Data has been processed successfully.
+2024-09-18 00:11:51,766 - INFO - Data successfully updated in the SQL table.
+2024-09-18 13:38:05,339 - INFO - Data successfully read from the file.
+2024-09-18 13:38:05,389 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 13:38:05,389 - INFO - Data has been processed successfully.
+2024-09-18 13:38:05,743 - INFO - Data successfully updated in the SQL table.
+2024-09-18 13:42:28,509 - INFO - Starting data processing script.
+2024-09-18 13:42:28,526 - INFO - Data successfully read from the file.
+2024-09-18 13:42:28,526 - INFO - Data successfully loaded from CSV file.
+2024-09-18 13:42:28,538 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 13:42:28,538 - INFO - Data has been processed successfully.
+2024-09-18 13:42:28,538 - INFO - Data processing completed.
+2024-09-18 13:42:28,746 - INFO - Data successfully updated in the SQL table.
+2024-09-18 13:42:28,746 - INFO - Data successfully updated in the SQL table.
+2024-09-18 13:43:29,675 - INFO - Data successfully read from the file.
+2024-09-18 13:43:29,706 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 13:43:29,707 - INFO - Data has been processed successfully.
+2024-09-18 13:43:29,725 - INFO - Data successfully read from the file.
+2024-09-18 13:43:29,741 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 13:43:29,742 - INFO - Data has been processed successfully.
+2024-09-18 13:43:30,054 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:33:10,465 - INFO - Data successfully read from the file.
+2024-09-18 22:33:10,497 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:33:10,497 - INFO - Data has been processed successfully.
+2024-09-18 22:33:10,513 - INFO - Data successfully read from the file.
+2024-09-18 22:33:10,529 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:33:10,529 - INFO - Data has been processed successfully.
+2024-09-18 22:33:10,845 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:34:17,308 - INFO - Starting data processing script.
+2024-09-18 22:34:17,332 - INFO - Data successfully read from the file.
+2024-09-18 22:34:17,332 - INFO - Data successfully loaded from CSV file.
+2024-09-18 22:34:17,373 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:34:17,373 - INFO - Data has been processed successfully.
+2024-09-18 22:34:17,373 - INFO - Data processing completed.
+2024-09-18 22:34:17,721 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:34:17,721 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:34:29,597 - INFO - Data successfully read from the file.
+2024-09-18 22:34:29,621 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:34:29,621 - INFO - Data has been processed successfully.
+2024-09-18 22:34:29,637 - INFO - Data successfully read from the file.
+2024-09-18 22:34:29,653 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:34:29,653 - INFO - Data has been processed successfully.
+2024-09-18 22:34:29,960 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:34:40,224 - INFO - Data successfully read from the file.
+2024-09-18 22:34:40,249 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:34:40,249 - INFO - Data has been processed successfully.
+2024-09-18 22:34:40,497 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:40:33,019 - INFO - Starting data processing script.
+2024-09-18 22:40:33,035 - INFO - Data successfully read from the file.
+2024-09-18 22:40:33,035 - INFO - Data successfully loaded from CSV file.
+2024-09-18 22:40:33,066 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:40:33,066 - INFO - Data has been processed successfully.
+2024-09-18 22:40:33,066 - INFO - Data processing completed.
+2024-09-18 22:40:33,458 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:40:33,459 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:40:45,931 - INFO - Data successfully read from the file.
+2024-09-18 22:40:45,963 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:40:45,963 - INFO - Data has been processed successfully.
+2024-09-18 22:40:45,978 - INFO - Data successfully read from the file.
+2024-09-18 22:40:45,995 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:40:45,995 - INFO - Data has been processed successfully.
+2024-09-18 22:40:46,350 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:40:57,978 - INFO - Data successfully read from the file.
+2024-09-18 22:40:58,018 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:40:58,018 - INFO - Data has been processed successfully.
+2024-09-18 22:40:58,317 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:41:13,157 - INFO - Starting data processing script.
+2024-09-18 22:41:13,188 - INFO - Data successfully read from the file.
+2024-09-18 22:41:13,188 - INFO - Data successfully loaded from CSV file.
+2024-09-18 22:41:13,214 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:41:13,214 - INFO - Data has been processed successfully.
+2024-09-18 22:41:13,214 - INFO - Data processing completed.
+2024-09-18 22:41:13,552 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:41:13,555 - INFO - Data successfully updated in the SQL table.
+2024-09-18 22:41:29,585 - INFO - Data successfully read from the file.
+2024-09-18 22:41:29,619 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:41:29,619 - INFO - Data has been processed successfully.
+2024-09-18 22:41:29,636 - INFO - Data successfully read from the file.
+2024-09-18 22:41:29,651 - WARNING - Rows with missing values dropped: 2636
+2024-09-18 22:41:29,651 - INFO - Data has been processed successfully.
+2024-09-18 22:41:30,145 - INFO - Data successfully updated in the SQL table.
+2024-09-19 14:47:56,260 - INFO - Starting data processing script.
+2024-09-19 14:47:56,322 - INFO - Data successfully read from the file.
+2024-09-19 14:47:56,322 - INFO - Data successfully loaded from CSV file.
+2024-09-19 14:47:56,339 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 14:47:56,339 - INFO - Data has been processed successfully.
+2024-09-19 14:47:56,339 - INFO - Data processing completed.
+2024-09-19 14:47:56,609 - INFO - Data successfully updated in the SQL table.
+2024-09-19 14:47:56,609 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:39:11,722 - INFO - Starting data processing script.
+2024-09-19 15:39:11,722 - INFO - Data successfully read from the file.
+2024-09-19 15:39:11,722 - INFO - Data successfully loaded from CSV file.
+2024-09-19 15:39:11,898 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:39:11,898 - INFO - Data has been processed successfully.
+2024-09-19 15:39:11,898 - INFO - Data processing completed.
+2024-09-19 15:39:12,021 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:39:12,021 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:43:02,769 - INFO - Starting data processing script.
+2024-09-19 15:43:02,776 - INFO - Data successfully read from the file.
+2024-09-19 15:43:02,776 - INFO - Data successfully loaded from CSV file.
+2024-09-19 15:43:02,776 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:43:02,776 - INFO - Data has been processed successfully.
+2024-09-19 15:43:02,776 - INFO - Data processing completed.
+2024-09-19 15:43:02,885 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:43:02,885 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:45:22,562 - INFO - Starting data processing script.
+2024-09-19 15:45:22,562 - INFO - Data successfully read from the file.
+2024-09-19 15:45:22,562 - INFO - Data successfully loaded from CSV file.
+2024-09-19 15:45:22,562 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:45:22,562 - INFO - Data has been processed successfully.
+2024-09-19 15:45:22,562 - INFO - Data processing completed.
+2024-09-19 15:45:22,640 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:45:22,640 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:47:03,788 - INFO - Data successfully read from the file.
+2024-09-19 15:47:03,800 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:47:03,801 - INFO - Data has been processed successfully.
+2024-09-19 15:47:03,806 - INFO - Data successfully read from the file.
+2024-09-19 15:47:03,806 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:47:03,806 - INFO - Data has been processed successfully.
+2024-09-19 15:47:03,937 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:47:15,426 - INFO - Starting data processing script.
+2024-09-19 15:47:15,443 - INFO - Data successfully read from the file.
+2024-09-19 15:47:15,443 - INFO - Data successfully loaded from CSV file.
+2024-09-19 15:47:15,443 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:47:15,458 - INFO - Data has been processed successfully.
+2024-09-19 15:47:15,458 - INFO - Data processing completed.
+2024-09-19 15:47:15,597 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:47:15,597 - INFO - Data successfully updated in the SQL table.
+2024-09-19 15:47:23,931 - INFO - Data successfully read from the file.
+2024-09-19 15:47:23,955 - WARNING - Rows with missing values dropped: 2636
+2024-09-19 15:47:23,955 - INFO - Data has been processed successfully.
+2024-09-19 15:47:24,086 - INFO - Data successfully updated in the SQL table.
+2024-09-20 17:15:04,110 - INFO - Starting data processing script.
+2024-09-20 17:15:04,170 - INFO - Data successfully read from the file.
+2024-09-20 17:15:04,170 - INFO - Data successfully loaded from CSV file.
+2024-09-20 17:15:04,183 - WARNING - Rows with missing values dropped: 2636
+2024-09-20 17:15:04,183 - INFO - Data has been processed successfully.
+2024-09-20 17:15:04,183 - INFO - Data processing completed.
+2024-09-20 17:15:04,390 - INFO - Data successfully updated in the SQL table.
+2024-09-20 17:15:04,393 - INFO - Data successfully updated in the SQL table.
+2024-09-21 18:13:25,682 - INFO - Starting data processing script.
+2024-09-21 18:13:25,775 - INFO - Data successfully read from the file.
+2024-09-21 18:13:25,775 - INFO - Data successfully loaded from CSV file.
+2024-09-21 18:13:25,845 - WARNING - Rows with missing values dropped: 2636
+2024-09-21 18:13:25,845 - INFO - Data has been processed successfully.
+2024-09-21 18:13:25,846 - INFO - Data processing completed.
+2024-09-21 18:13:28,159 - INFO - Data successfully updated in the SQL table.
+2024-09-21 18:13:28,159 - INFO - Data successfully updated in the SQL table.
+2024-09-23 23:55:51,357 - INFO - Starting data processing script.
+2024-09-23 23:55:51,592 - INFO - Data successfully read from the file.
+2024-09-23 23:55:51,592 - INFO - Data successfully loaded from CSV file.
+2024-09-23 23:55:51,668 - WARNING - Rows with missing values dropped: 2636
+2024-09-23 23:55:51,668 - INFO - Data has been processed successfully.
+2024-09-23 23:55:51,668 - INFO - Data processing completed.
+2024-09-23 23:55:52,132 - INFO - Data successfully updated in the SQL table.
+2024-09-23 23:55:52,132 - INFO - Data successfully updated in the SQL table.
+2024-09-24 01:40:06,669 - INFO - Starting data processing script.
+2024-09-24 01:40:06,686 - INFO - Data successfully read from the file.
+2024-09-24 01:40:06,686 - INFO - Data successfully loaded from CSV file.
+2024-09-24 01:40:06,701 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 01:40:06,701 - INFO - Data has been processed successfully.
+2024-09-24 01:40:06,701 - INFO - Data processing completed.
+2024-09-24 01:40:06,916 - INFO - Data successfully updated in the SQL table.
+2024-09-24 01:40:06,916 - INFO - Data successfully updated in the SQL table.
+2024-09-24 08:09:12,720 - INFO - Starting data processing script.
+2024-09-24 08:09:12,767 - INFO - Data successfully read from the file.
+2024-09-24 08:09:12,767 - INFO - Data successfully loaded from CSV file.
+2024-09-24 08:09:12,796 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 08:09:12,796 - INFO - Data has been processed successfully.
+2024-09-24 08:09:12,796 - INFO - Data processing completed.
+2024-09-24 08:09:13,055 - INFO - Data successfully updated in the SQL table.
+2024-09-24 08:09:13,055 - INFO - Data successfully updated in the SQL table.
+2024-09-24 08:51:02,496 - INFO - Starting data processing script.
+2024-09-24 08:51:02,536 - INFO - Data successfully read from the file.
+2024-09-24 08:51:02,536 - INFO - Data successfully loaded from CSV file.
+2024-09-24 08:51:02,551 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 08:51:02,552 - INFO - Data has been processed successfully.
+2024-09-24 08:51:02,552 - INFO - Data processing completed.
+2024-09-24 08:51:02,896 - INFO - Data successfully updated in the SQL table.
+2024-09-24 08:51:02,896 - INFO - Data successfully updated in the SQL table.
+2024-09-24 08:51:10,411 - INFO - Data successfully read from the file.
+2024-09-24 08:51:10,428 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 08:51:10,429 - INFO - Data has been processed successfully.
+2024-09-24 08:51:10,651 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:40:37,583 - INFO - Starting data processing script.
+2024-09-24 16:40:37,614 - INFO - Data successfully read from the file.
+2024-09-24 16:40:37,614 - INFO - Data successfully loaded from CSV file.
+2024-09-24 16:40:37,628 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 16:40:37,628 - INFO - Data has been processed successfully.
+2024-09-24 16:40:37,628 - INFO - Data processing completed.
+2024-09-24 16:40:37,801 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:40:37,801 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:43:02,722 - INFO - Starting data processing script.
+2024-09-24 16:43:02,737 - INFO - Data successfully read from the file.
+2024-09-24 16:43:02,737 - INFO - Data successfully loaded from CSV file.
+2024-09-24 16:43:02,737 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 16:43:02,737 - INFO - Data has been processed successfully.
+2024-09-24 16:43:02,737 - INFO - Data processing completed.
+2024-09-24 16:43:02,894 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:43:02,894 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:43:33,186 - INFO - Starting data processing script.
+2024-09-24 16:43:33,202 - INFO - Data successfully read from the file.
+2024-09-24 16:43:33,202 - INFO - Data successfully loaded from CSV file.
+2024-09-24 16:43:33,202 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 16:43:33,202 - INFO - Data has been processed successfully.
+2024-09-24 16:43:33,202 - INFO - Data processing completed.
+2024-09-24 16:43:33,296 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:43:33,296 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:45:02,159 - INFO - Starting data processing script.
+2024-09-24 16:45:02,169 - INFO - Data successfully read from the file.
+2024-09-24 16:45:02,169 - INFO - Data successfully loaded from CSV file.
+2024-09-24 16:45:02,174 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 16:45:02,174 - INFO - Data has been processed successfully.
+2024-09-24 16:45:02,174 - INFO - Data processing completed.
+2024-09-24 16:45:02,257 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:45:02,258 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:47:21,763 - INFO - Starting data processing script.
+2024-09-24 16:47:21,778 - INFO - Data successfully read from the file.
+2024-09-24 16:47:21,778 - INFO - Data successfully loaded from CSV file.
+2024-09-24 16:47:21,778 - WARNING - Rows with missing values dropped: 2636
+2024-09-24 16:47:21,778 - INFO - Data has been processed successfully.
+2024-09-24 16:47:21,778 - INFO - Data processing completed.
+2024-09-24 16:47:21,872 - INFO - Data successfully updated in the SQL table.
+2024-09-24 16:47:21,872 - INFO - Data successfully updated in the SQL table.
